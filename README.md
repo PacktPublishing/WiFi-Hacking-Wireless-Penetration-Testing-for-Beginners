@@ -27,7 +27,4 @@ N/A
 
 * [Learn Network Hacking From Scratch (WiFi and Wired) [Video]](https://www.packtpub.com/application-development/learn-network-hacking-scratch-wifi-and-wired-video)
 
-* [Complete Ethical Hacking and Penetration Testing for Web Apps  [Video]](https://www.packtpub.com/networking-and-servers/complete-ethical-hacking-and-penetration-testing-web-apps-video)### Download a free PDF
-
- <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
-<p align="center"> <a href="https://packt.link/free-ebook/9781789530193">https://packt.link/free-ebook/9781789530193 </a> </p>
+* [Complete Ethical Hacking and Penetration Testing for Web Apps  [Video]](https://www.packtpub.com/networking-and-servers/complete-ethical-hacking-and-penetration-testing-web-apps-video)
